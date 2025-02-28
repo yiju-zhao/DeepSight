@@ -1,0 +1,15 @@
+beautifulsoup4
+db
+fuzzywuzzy
+markitdown
+numpy
+ollama
+openreview-py
+pandas
+pymilvus
+pytest
+python-dotenv
+Requests
+SQLAlchemy
+psycopg2
+python-Levenshtein
